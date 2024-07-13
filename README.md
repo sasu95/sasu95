@@ -9,7 +9,7 @@ I'm Salma Usama , Front End Developer 💻.
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m currently learning about Laraval.
+- :seedling: I’m currently learning about Laravel.
 - :computer: I’m currently working at TakamulGroup.
 - 📫 How to reach me **salmausama26@gmail.com**
 
