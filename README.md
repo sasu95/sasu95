@@ -15,10 +15,10 @@ I'm Salma Usama , Front End Developer 💻.
 
 
 🤝 &nbsp; Connect with Me
-
-[<img
-    src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/salma-usama-6a59202a5/)
-<a href="mailto:salmausama26@gamil.com"><img src="https://img.shields.io/badge/-salmausama26@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<p align='left'>
+<a href="https://www.linkedin.com/in/salma-usama-6a59202a5/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>&nbsp;&nbsp; 
+<a href="https://github.com/UjwalKandi" target="_blank"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue&link=mailto:salmausama26@gamil.com"></a>&nbsp;&nbsp;
+</p>
 <hr>
 <p align="center">
 
