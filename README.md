@@ -9,15 +9,15 @@ I'm Salma Usama , Front End Developer 💻.
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m currently learning about Laravel.
+- :seedling: I’m currently learning about react js.
 - :computer: I’m currently working at TakamulGroup.
-- 📫 How to reach me **salmausama26@gmail.com**
+- 📫 How to reach me **salmaaosama95@gmail.com**
 
 
 🤝 &nbsp; Connect with Me
 <p align='left'>
 <a href="https://www.linkedin.com/in/salma-usama-6a59202a5/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>&nbsp;&nbsp; 
-<a href="https://github.com/UjwalKandi" target="_blank"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue&link=mailto:salmausama26@gamil.com"></a>&nbsp;&nbsp;
+<a href="https://github.com/UjwalKandi" target="_blank"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue&link=mailto:salmaaosama95@gamil.com"></a>&nbsp;&nbsp;
 </p>
 <hr>
 <p align="center">
@@ -35,7 +35,6 @@ I'm Salma Usama , Front End Developer 💻.
 
    ![jQuary](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
    ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 - 🎛️ Application and Tools:
